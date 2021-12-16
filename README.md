@@ -18,7 +18,8 @@ saída
 máquina) nível pelos chamados compiladores
 
 **Exercicio 2: Quilowatts**
-Fiz no netbeans
+Netbeans 
+Repositorio de nome: Exercicio2_Teste_Aula16
 
 **Exercicio 3: Dentre os comandos de laço de repetição que vocês aprenderam,há um deles que faz com que um determinado bloco de código seja executado se
 uma determinada condição for verdadeira. Esta execução segue os passos na 
@@ -32,9 +33,11 @@ Letra c.
 
 **Exercicio 4: DETRAN**
 Netbeans
+Repositorio de nome: Exercicio4_Teste_Aula16
 
 **Exercicio 5: Pedrinho e Luiz**
 Netbeans
+Repositorio de nome: Exercicio5_Teste_Aula16
 
 **Exercicio 6: As linguagens de programação permitem que os usuários definam
 nomes para as posições na memória da máquina, que também são chamados de:**
