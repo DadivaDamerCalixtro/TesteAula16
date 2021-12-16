@@ -1,5 +1,5 @@
 # Aula 16
-**Exercicio 1: (Verdadiro e falso)**
+**Exercicio 1: (Verdadeiro ou falso)**
 ( V) Levando em consideração que temos declaradas em um algoritmo, as variáveis A =
 6, B = 10 e C = 4, podemos dizer que o resultado da expressão (A + B) < (B * C) é falso
 
