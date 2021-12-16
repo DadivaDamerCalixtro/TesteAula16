@@ -1,15 +1,19 @@
 # Aula 16
 **Exercicio 1: (Verdadiro e falso)**
 ( V) Levando em consideração que temos declaradas em um algoritmo, as variáveis A =
-6, B = 10 e C = 4, podemos dizer que o resultado da expressão (A + B) < (B * C) é falso.
+6, B = 10 e C = 4, podemos dizer que o resultado da expressão (A + B) < (B * C) é falso
+
 (V)A estrutura de desvio condicional SE/ENTAO/SENAO (VisualG), ou IF/ELSE(Java),
 possibilita a execução de um determinado comando sempre fazendo com que se a
 segunda condição for verdadeira, o comando da condição SE/ENTAO seja executado e
-caso contrário, se o comando da condição SENAO (falsa) seja executado.
+caso contrário, se o comando da condição SENAO (falsa) seja executado
+
 ((F)definir lógica como sendo um conjunto de sequencias infinitas e ordenadas de
-maneira sequencial que serão executadas na ordem em que foram escritas
+maneira sequencial que serão executadas na ordem em que foram 
+
 (V)As partes que compõem um algoritmo são: Entrada de dados, Processamento e
-saída.
+saída
+
 (V)linguagens de baixo nível são convertidas em linguagens de alto(linguagem de
 máquina) nível pelos chamados compiladores
 
